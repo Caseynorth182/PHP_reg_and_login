@@ -1,0 +1,28 @@
+
+body {
+}
+
+.btn_wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.alert_out,
+.green {
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    margin-top: 20px;
+    text-align: center;
+}
+.green {
+    background-color: green;
+}
+.btn {
+
+    margin: 0 auto;
+    text-align: center;
+}
